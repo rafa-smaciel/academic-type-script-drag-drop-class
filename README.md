@@ -27,7 +27,7 @@ This project was developed with the following technologies:
 
 <br>
 
-## ⚙ Commands Running locally Client
+## ⚙ Commands Running
 - yarn
 - yarn start
 
