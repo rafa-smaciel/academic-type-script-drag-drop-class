@@ -32,6 +32,6 @@ This project was developed with the following technologies:
 - yarn start
 
 ## ⚙ Documentatios
-- <a href=".github/Documentation.pdf">PDF</a>
+- <a href=".github/documentation.pdf">PDF</a>
 
 Made with 💜 by Rafael Maciel
