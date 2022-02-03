@@ -31,7 +31,7 @@ This project was developed with the following technologies:
 - yarn
 - yarn start
 
-## ⚙ Documentatios
+## ⚙ Documentation
 - <a href=".github/documentation.pdf">PDF</a>
 
 Made with 💜 by Rafael Maciel
