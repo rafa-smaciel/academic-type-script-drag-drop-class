@@ -25,6 +25,7 @@ This project was developed with the following technologies:
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [ReactJS](https://reactjs.org/)
 - [ReactDndBeautifull](https://github.com/atlassian/react-beautiful-dnd)
+- [ReactDndBeautifull with TypeScript](https://github.com/atlassian/react-beautiful-dnd/blob/master/docs/guides/types.md)
 
 <br>
 
